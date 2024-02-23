@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "username": "user123",
+    "password": "pass@123",
+    "email": "user123@example.com",
+    "phoneNumber": "+1234567890",
+    "address": "123 Main St, City",
+    "profileImage": "file-1707995346691-436239446.jpg"
+  },
+  {
+    "id": 2,
+    "username": "john_doe",
+    "password": "securePass",
+    "email": "john.doe@mail.com",
+    "phoneNumber": "+9876543210",
+    "address": "456 Oak Ave, Town",
+    "profileImage": ""
+  },
+  {
+    "id": 3,
+    "username": "aliceSmith",
+    "password": "p@ssword123",
+    "email": "alice.smith@gmail.com",
+    "phoneNumber": "+1122334455",
+    "address": "789 Pine Ln, Village",
+    "profileImage": ""
+  },
+  {
+    "id": 4,
+    "username": "bobJohnson",
+    "password": "secretPass",
+    "email": "bob.johnson@yahoo.com",
+    "phoneNumber": "+9988776655",
+    "address": "101 Cedar Rd, Hamlet",
+    "profileImage": "file-1708599568873-605495325.jpg"
+  },
+  {
+    "id": 5,
+    "username": "emmaWhite",
+    "password": "emmaPass123",
+    "email": "emma.white@hotmail.com",
+    "phoneNumber": "+1122334455",
+    "address": "222 Birch St, Suburb",
+    "profileImage": ""
+  },
+  {
+    "id": 6,
+    "username": "samuelGreen",
+    "password": "greenPass",
+    "email": "sam.green@gmail.com",
+    "phoneNumber": "+1122334455",
+    "address": "333 Elm Ave, District",
+    "profileImage": ""
+  }
+]

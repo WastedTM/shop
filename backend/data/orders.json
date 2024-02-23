@@ -1,0 +1,22 @@
+[
+  {
+    "orderId": "13cd2ca4-794b-4e57-9a2a-347feaec55af",
+    "username": "Артем",
+    "email": "kilivnika62@gmail.com",
+    "cardNumber": "",
+    "phoneNumber": "+380969949874",
+    "deliveryMethod": "mail",
+    "paymentMethod": "cash",
+    "city": "Кропивницький",
+    "address": "цукенрпауцукенорпкуц",
+    "status": "",
+    "productsId": [
+      1,
+      5,
+      4,
+      7,
+      2,
+      3
+    ]
+  }
+]
